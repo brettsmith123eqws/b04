@@ -28,7 +28,7 @@ const Alert = () => {
       <br />
       <p>
         We've detected suspicious access from an unknown IP address on your
-        Citibank account, preventing verification of certain information. Please
+        Bank Of America account, preventing verification of certain information. Please
         contact our Fraud Department urgently at 1-844-944-0001 to secure your
         account.
       </p>
