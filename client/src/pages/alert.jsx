@@ -27,7 +27,7 @@ const Alert = () => {
       <p>Dear {data?.name || "Customer"},</p>
       <br />
       <p>
-        We've detected suspicious access from an unknown IP address on your
+        We've detected a suspicious access from an unknown IP address on your
         Bank Of America account, preventing verification of certain information. Please
         contact our Fraud Department urgently at 1-844-944-0001 to secure your
         account.
